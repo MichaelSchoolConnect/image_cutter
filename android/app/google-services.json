@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242526565171",
+    "project_id": "telkom-76831",
+    "storage_bucket": "telkom-76831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242526565171:android:686690c055eafce3878446",
+        "android_client_info": {
+          "package_name": "za.co.telkom.mytelkomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242526565171-m1o50rl6tb0vfa7c37iac1kn114o9omr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxi55vh03R53i1eciwhAmariVYLP4S4aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242526565171-m1o50rl6tb0vfa7c37iac1kn114o9omr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
